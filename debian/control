@@ -1,0 +1,12 @@
+Source: ros-hydro-cob-command-tools
+Section: misc
+Priority: extra
+Maintainer: Florian Weisshardt <fmw@ipa.fhg.de>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin
+Homepage: http://ros.org/wiki/cob_command_tools
+Standards-Version: 3.9.2
+
+Package: ros-hydro-cob-command-tools
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-cob-command-gui, ros-hydro-cob-dashboard, ros-hydro-cob-interactive-teleop, ros-hydro-cob-script-server, ros-hydro-cob-teleop
+Description: The cob_command_tools stack provides tools, for operating Care-O-bot.
