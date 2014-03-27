@@ -1,0 +1,12 @@
+Source: ros-hydro-cob-interactive-teleop
+Section: misc
+Priority: extra
+Maintainer: Michal Spanel <spanel@fit.vutbr.cz>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin, ros-hydro-geometry-msgs, ros-hydro-interactive-markers, ros-hydro-message-filters, ros-hydro-roscpp, ros-hydro-rviz, ros-hydro-sensor-msgs, ros-hydro-std-msgs, ros-hydro-tf, ros-hydro-visualization-msgs
+Homepage: http://ros.org/wiki/cob_interactive_teleop
+Standards-Version: 3.9.2
+
+Package: ros-hydro-cob-interactive-teleop
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-geometry-msgs, ros-hydro-interactive-markers, ros-hydro-message-filters, ros-hydro-roscpp, ros-hydro-rviz, ros-hydro-sensor-msgs, ros-hydro-std-msgs, ros-hydro-tf, ros-hydro-visualization-msgs
+Description: COB teleop interactive marker for RViz provided by dcgm-robotics@FIT group.
