@@ -2,6 +2,11 @@
 Changelog for package cob_interactive_teleop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.2 (2014-08-28)
+------------------
+* Update package.xml
+* Contributors: Florian Weisshardt
+
 0.5.1 (2014-03-20)
 ------------------
 * removed compiler warning
