@@ -1,3 +1,31 @@
+## cob_command_tools (indigo) - 0.5.2-0
+
+The packages in the `cob_command_tools` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo cob_command_tools --edit` on `Thu, 28 Aug 2014 07:30:11 -0000`
+
+These packages were released:
+- `cob_command_gui`
+- `cob_command_tools`
+- `cob_dashboard`
+- `cob_interactive_teleop`
+- `cob_script_server`
+- `cob_teleop`
+- `cob_teleop_cob4`
+
+Version of package(s) in repository `cob_command_tools`:
+- upstream repository: https://github.com/ipa320/cob_command_tools.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.5.2-0`
+
+Versions of tools used:
+- bloom version: `0.5.11`
+- catkin_pkg version: `0.2.4`
+- rosdep version: `0.10.30`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## cob_command_tools (hydro) - 0.5.1-2
 
 User `fmw@fmw-xps` released the packages in the `cob_command_tools` repository into the `hydro` distro by running `/usr/bin/bloom-release --ros-distro hydro --track hydro cob_command_tools` on `Thu, 27 Mar 2014 08:36:17 -0000`
